@@ -1,0 +1,3 @@
+rootProject.name = "Project Monitoring App"
+include ':app'
+include ':dao'
